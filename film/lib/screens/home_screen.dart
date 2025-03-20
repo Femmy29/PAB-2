@@ -1,4 +1,4 @@
-import 'package:film/models/services/api_service.dart';
+import 'package:film/services/api_service.dart';
 import 'package:film/screens/detail_screen.dart';
 import 'package:flutter/material.dart';
 import '../models/movie.dart';
