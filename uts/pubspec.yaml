@@ -1,0 +1,22 @@
+name: uts
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.27.0
+  firebase_auth: ^4.16.0
+  firebase_database: ^10.4.9
+  screens: ^2.5.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

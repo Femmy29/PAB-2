@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "125164291018",
+    "project_id": "utsfj-33cff",
+    "storage_bucket": "utsfj-33cff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125164291018:android:307eaaf7ce348286470533",
+        "android_client_info": {
+          "package_name": "com.example.uts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVNIxFNmVfOGAFiDGL6P0j1UARRwE2q9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
